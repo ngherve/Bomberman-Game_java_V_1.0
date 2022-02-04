@@ -1,0 +1,2 @@
+Use arrow keys to move the Sniper.
+Use SPACE button to fire bullets.
